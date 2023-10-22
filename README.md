@@ -8,16 +8,16 @@ classDiagram
   class User {
     - name: String
     - account: Account
-    - features: Feature[]
+    - features: List<Feature>
     - creditCard: CreditCard
-    - hints: Hint[]
+    - hints: List<Hint>
   }
 
   class Account {
     - Agency: String
     - Number: String
-    - Balance: double
-    - Limit: double
+    - Balance: BigDecimal
+    - Limit: BigDecimal
   }
 
   class Feature {
@@ -27,7 +27,7 @@ classDiagram
 
   class CreditCard {
     - Number: String
-    - Limit: double
+    - Limit: BigDecimal
   }
 
   class Hint {
