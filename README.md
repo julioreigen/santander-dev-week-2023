@@ -31,8 +31,8 @@ Este repositório contém uma API de gerenciamento de usuarios de um banco desen
 [![Spring Boot 3](https://img.shields.io/badge/Springboot%203-000?style=for-the-badge&logo=springboot&logoColor=00FF00)](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 [![Spring Data JPA](https://img.shields.io/badge/Spring%20Data-000?style=for-the-badge&logo=spring&logoColor=00FF00)](https://spring.io/projects/spring-data-jpa)
 [![Swagger](https://img.shields.io/badge/Swagger-000?style=for-the-badge&logo=swagger&logoColor=00FF00)](https://swagger.io/)
-[![Railway](https://img.shields.io/badge/Railway-000?style=for-the-badge&logo=railway&logoColor=FFFFFF)](https://docs.github.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=Add8e6)](https://docs.github.com/)
+[![Railway](https://img.shields.io/badge/Railway-000?style=for-the-badge&logo=railway&logoColor=FFFFFF)](https://https://railway.app)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=Add8e6)](https://www.postgresql.org/)
 
 </div>
 
